@@ -68,4 +68,10 @@ The dataset contains detailed information about Adidas product sales in the Unit
 
 ---
 
+## About Me
+
+I'm **Omar Nasr**, an aspiring Data Analyst passionate about extracting insights from data using Excel, SQL, Python, and Power BI.  
+Check out more of my projects on [GitHub](https://github.com/omar-nasr22) 🔗
+
+---
 ## 💡 Feel free to star ⭐ this repo if you found it useful!
